@@ -1,8 +1,8 @@
 Hello Git
-----------
+=========
 
 Introduction
-=============
+------------
 This is my first git repo. Yay!
 
 ```cpp
